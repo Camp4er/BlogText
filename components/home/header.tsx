@@ -26,7 +26,7 @@ export default function Header() {
         <NavLink href="/">
           <span className="flex items-center gap-2 shrink-0">
             <Ghost className="hover:rotate-12 transform transition duration-200 ease-in-out" />
-            <span className="font-extrabold text-lg">SpeakEasy</span>
+            <span className="font-extrabold text-lg">BlogText</span>
           </span>
         </NavLink>
       </div>

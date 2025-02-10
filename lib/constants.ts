@@ -2,7 +2,7 @@ export const plansMap = [
     {
       id: "basic",
       name: "Basic",
-      description: "Get started with SpeakEasy!",
+      description: "Get started with BlogText!",
       price: "10",
       items: ["3 Blog Posts", "3 Transcription"],
       paymentLink: "https://buy.stripe.com/test_00gg168b15ZqdUsfZ2",
